@@ -1,0 +1,6 @@
+E:\NOVO\OOP_ZAD3\bin\Debug\OOP_ZAD3.exe.config
+E:\NOVO\OOP_ZAD3\bin\Debug\OOP_ZAD3.exe
+E:\NOVO\OOP_ZAD3\bin\Debug\OOP_ZAD3.pdb
+E:\NOVO\OOP_ZAD3\obj\Debug\OOP_ZAD3.exe
+E:\NOVO\OOP_ZAD3\obj\Debug\OOP_ZAD3.pdb
+E:\NOVO\OOP_ZAD3\obj\Debug\OOP_ZAD3.csprojResolveAssemblyReference.cache

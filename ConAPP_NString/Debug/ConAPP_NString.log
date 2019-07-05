@@ -1,0 +1,4 @@
+﻿  NString.cpp
+e:\novo\conapp_nstring\nstring.cpp(43): warning C4018: '<': signed/unsigned mismatch
+  ConAPP_NString.vcxproj -> E:\NOVO\ConAPP_NString\Debug\ConAPP_NString.exe
+  ConAPP_NString.vcxproj -> E:\NOVO\ConAPP_NString\Debug\ConAPP_NString.pdb (Full PDB)

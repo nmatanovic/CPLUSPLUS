@@ -1,0 +1,4 @@
+﻿  InheritanceAbstractClass.cpp
+e:\novo\inheritanceabstractclass\inheritanceabstractclass.cpp(86): warning C4101: 't': unreferenced local variable
+  InheritanceAbstractClass.vcxproj -> E:\NOVO\InheritanceAbstractClass\Debug\InheritanceAbstractClass.exe
+  InheritanceAbstractClass.vcxproj -> E:\NOVO\InheritanceAbstractClass\Debug\InheritanceAbstractClass.pdb (Full PDB)

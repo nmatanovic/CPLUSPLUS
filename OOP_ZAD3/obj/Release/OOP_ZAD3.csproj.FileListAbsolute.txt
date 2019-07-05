@@ -1,0 +1,5 @@
+E:\NOVO\OOP_ZAD3\bin\Release\OOP_ZAD3.exe.config
+E:\NOVO\OOP_ZAD3\bin\Release\OOP_ZAD3.exe
+E:\NOVO\OOP_ZAD3\bin\Release\OOP_ZAD3.pdb
+E:\NOVO\OOP_ZAD3\obj\Release\OOP_ZAD3.exe
+E:\NOVO\OOP_ZAD3\obj\Release\OOP_ZAD3.pdb
