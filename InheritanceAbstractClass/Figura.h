@@ -1,13 +1,13 @@
 #ifndef _H_FIGURA
 #define _H_FIGURA
 
-class Figura
+class IFigura
 {
 public:
 
-	Figura();
+	IFigura();
 	virtual double Area() = 0;
-	virtual ~Figura();
+	virtual ~IFigura();
 
 };
 

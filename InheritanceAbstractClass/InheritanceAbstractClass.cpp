@@ -64,16 +64,6 @@ public:
 
 	void Swap(Circle *lpInto, Circle* lpFrom)
 	{
-		//int t;
-
-	/*	t = lpInto->m_x;
-		lpInto->m_x = lpFrom->m_x;
-		lpFrom->m_x = t;
-
-		t = lpInto->m_y;
-		lpInto->m_y = lpFrom->m_y;
-		lpFrom->m_y = t;*/
-
 		Swap<int>(lpInto->m_x, lpFrom->m_x);
 		Swap<int>(lpInto->m_y, lpFrom->m_y);
 	}
@@ -112,7 +102,7 @@ void Test()
 	fC->SetY(15);
 
 	//
-	Figura *f = &c;
+	IFigura *f = &c;
 
 	std::cout << f->Area() << std::endl;
 }

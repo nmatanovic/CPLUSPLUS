@@ -1,9 +1,9 @@
 #include "stdafx.h"
 
-Figura::Figura()
+IFigura::IFigura()
 {
 }
 
-Figura::~Figura()
+IFigura::~IFigura()
 {
 }
