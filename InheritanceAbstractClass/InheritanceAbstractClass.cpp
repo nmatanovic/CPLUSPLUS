@@ -2,27 +2,8 @@
 //
 
 #include "stdafx.h"
+#include "Figura.h"
 
-
-//
-// Any class with pure virtual method is abstract class
-// such class can not be instanced
-//
-class Figura
-{
-public:
-
-	Figura()
-	{
-	}
-
-	virtual double Area() = 0;
-
-	virtual ~Figura()
-	{
-	}
-
-};
 
 //
 //
